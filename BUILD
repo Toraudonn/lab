@@ -985,6 +985,7 @@ py_binary(
     main = "python/random_agent.py",
     visibility = ["//python/tests:__subpackages__"],
     deps = ["@six_archive//:six"],
+    default_python_version = "PY3"
 )
 
 LOAD_TEST_SCRIPTS = [
