@@ -4,3 +4,9 @@
 [submodule "unreal-1"]
 	path = unreal-1
 	url = https://github.com/Toraudonn/unreal-1.git
+[submodule "A3C"]
+	path = a3c-tensorflow
+	url = https://github.com/Toraudonn/A3C.git
+[submodule "a3c-pytorch"]
+	path = a3c-pytorch
+	url = https://github.com/Toraudonn/a3c-pytorch.git
